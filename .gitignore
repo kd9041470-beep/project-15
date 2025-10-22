@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+*.zip
+*.tar
+*.gz
+*.7z
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+node_modules/
+dist/
+build/
+*.log
+logs/
